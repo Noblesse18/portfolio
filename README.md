@@ -1,6 +1,6 @@
 # 📖 Documentation Technique - Portfolio React
 
-**Auteur :** Narayanasamy COMARAVEL  
+**Auteur :**   
 **Date :** Décembre 2025  
 **Technologies :** React, Vite, Three.js, Tailwind CSS, Framer Motion
 
